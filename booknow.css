@@ -1,0 +1,39 @@
+img {
+	width: 40%;
+	margin: auto;
+	display: block;
+}
+.clickcenter {
+	text-align: center;
+}
+
+a:hover {
+	background-color: rgba(118, 118, 118, 0.2);
+}
+
+a {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 1em;
+	color: black;
+}
+
+h1 {
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;
+}
+
+form {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.buttonholder {
+	text-align: center;
+}
+
+.navbar {
+	font-family: 'Oswald', sans-serif;
+}
